@@ -76,3 +76,7 @@ h3 {
 	background-image: url(../img/modelo_basico.jpg);
 	background-position: top right;
 }
+.premier {
+	background-image: url(../img/modelo_premier.jpg);
+	background-position: top left;
+}
